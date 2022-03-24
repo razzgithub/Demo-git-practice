@@ -12,6 +12,7 @@ public class GithubTest {
 	public static void main(String[] args) {
 		
 		System.out.println("user 1 created github");
+		System.out.println("user 1 modified github");
 		
 	}
 
