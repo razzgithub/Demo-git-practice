@@ -14,6 +14,9 @@ public class GithubTest {
 		System.out.println("user 1 created github");
 
 		System.out.println("user 1 modified github");
+		
+		System.out.println("user 1 deleted github");
+		
 		 
 	}
 
